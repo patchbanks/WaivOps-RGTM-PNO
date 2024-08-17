@@ -16,6 +16,7 @@ The primary objective of this dataset is to provide accessible content for machi
 - 16-bit WAV format
 - Tempo: 120 BPM (live performance in absolute time)
 - Variational chorus detuning (vintage piano sound)
+- Paired audio and MIDI data
 
 ## Examples
 
@@ -31,7 +32,9 @@ The RGTM-PNO dataset is licensed under Creative Commons Attribution 4.0 Internat
 
 The audio files are provided in 16-bit WAV format and encoded at 44.1kHz.
 
-Direct Download (7.5GB) [rgtm_pno_id_0001_wav.tar.gz](https://zenodo.org/records/13335848/files/rgtm_pno_id_0001_wav.tar.gz?download=1&preview=1)
+Direct WAV Download (7.5GB) [rgtm_pno_id_0001_wav.tar.gz](https://zenodo.org/records/13335848/files/rgtm_pno_id_0001_wav.tar.gz?download=1&preview=1)
+
+Direct MIDI Download (70 Bytes) [rgtm_pno_id_0001_mid.tar.gz](https://zenodo.org/records/13335848/files/rgtm_pno_id_0001_mid.tar.gz?download=1&preview=1)
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13335848.svg)](https://doi.org/10.5281/zenodo.13335848)
 ## File Name Reference
